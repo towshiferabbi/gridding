@@ -1,0 +1,14 @@
+
+.header, .hero, .body, .bar, .footer{
+	background-color: grey;
+	margin-bottom: 40px;
+}
+.bg{
+	background-color: gold;
+	min-height: 150px;
+	border:1px solid grey;
+}
+.red{
+	background-color:red;
+	min-height: 150px;
+}
